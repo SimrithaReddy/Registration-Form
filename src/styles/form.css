@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #8AAAE5;
+}
+
+#main {
+    height: 400px;
+    width: 250px;
+    background-color: #FFFFFF;
+    position: relative;
+    padding: 50px 50px;
+    top: 90px;
+    left: 450px;
+}
+
+.form-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    margin-bottom: 15px;
+}
+
+.gap{
+    margin-bottom: 10px;
+}
+
+section{
+    margin-bottom: 10px;
+}
